@@ -1,7 +1,8 @@
 media
 log/*.log
-test/*.*
-venv/*.*
+test/**
+venv/**
 myproject/settings.py
+.idea/**
 
 
