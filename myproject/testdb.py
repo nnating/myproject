@@ -4,5 +4,5 @@
 
 import psycopg2
 
-conn = psycopg2.connect(database="sg_storage_dev", user="dengyuting", password="dyt_123456", host="114.55.200.59", port="31543")
+conn = psycopg2.connect(database="sg_storage_dev", user="test", password="123456", host="192.168.100.222", port="31543")
 print("Opened database successfully")
