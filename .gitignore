@@ -1,0 +1,7 @@
+media
+log/*.log
+test/*.*
+venv/*.*
+myproject/settings.py
+
+
